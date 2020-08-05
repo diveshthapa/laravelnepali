@@ -6,10 +6,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+<P> [नेपाली भरसनमा]</p>
 
-## About Laravel
+## About Laravelnepali
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+यसमा मैले लाराभरकाे नेपाली भरसन ल्याउने प्रयास गरेकाे छु । नेपाली भाषाकाे प्रचार र प्रद्धनकाे लागी । धेरै भन्दा धेरै नेपाली भाषीहरूले सहज रूपमा भेवसाइट चलाउकाे लागी । 
+
+ Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
