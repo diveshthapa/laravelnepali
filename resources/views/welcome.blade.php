@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     {{__('homepagewords.Welcome')}}
                  </div>
+                 <p>{{__('homepagewords.Choose Your Language')}}</p>
                 <div class="links">
                     <a href="lang/en">EN</a>
                     <a href="lang/ne">नेपाली</a>
