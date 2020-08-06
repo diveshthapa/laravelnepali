@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>{{__('homepagewords.Laravel')}}</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -68,12 +68,12 @@
             @if (Route::has('login'))
                 <div class="top-right links">
                     @auth
-                        <a href="{{ url('/home') }}">Home</a>
+                        <a href="{{ url('/home') }}">{{__('homepagewords.Home')}}</a>
                     @else
-                        <a href="{{ route('login') }}">Login</a>
+                        <a href="{{ route('login') }}">{{__('homepagewords.Login')}}</a>
 
                         @if (Route::has('register'))
-                            <a href="{{route('register') }}">Register</a>
+                            <a href="{{route('register') }}">{{__('homepagewords.Register')}}</a>
                         @endif
                     @endauth
                 </div>
@@ -83,20 +83,20 @@
                 <div class="title m-b-md">
                     {{__('homepagewords.Welcome')}}
                  </div>
-                <div class="Links">
+                <div class="links">
                     <a href="lang/en">EN</a>
                     <a href="lang/ne">नेपाली</a>
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">{{__('homepagewords.Docs')}}</a>
+                    <a href="https://laracasts.com">{{__('homepagewords.Laracasts')}}</a>
+                    <a href="https://laravel-news.com">{{__('homepagewords.News')}}</a>
+                    <a href="https://blog.laravel.com">{{__('homepagewords.Blog')}}</a>
+                    <a href="https://nova.laravel.com">{{__('homepagewords.Nova')}}</a>
+                    <a href="https://forge.laravel.com">{{__('homepagewords.Forge')}}</a>
+                    <a href="https://vapor.laravel.com">{{__('homepagewords.Vapor')}}</a>
+                    <a href="https://github.com/laravel/laravel">{{__('homepagewords.GitHub')}}</a>
                 </div>
             </div>
         </div>
