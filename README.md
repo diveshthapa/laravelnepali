@@ -1,4 +1,4 @@
-<p align="center"><img src=("https://preview.dragon-code.pro/laravel-lang/localize-your-app.svg?brand=laravel&preposition=with&mode=dark") width="400"></p>
+<p align="center"><img src=("https://preview.dragon-code.pro/laravel-lang/localize-your-app.svg") width="400"></p>
 <P align="center"> [ नेपाली भरसनमा ]</p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
