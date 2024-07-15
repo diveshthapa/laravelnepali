@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://[camo.githubusercontent.com/ee04912d1b1651c06b6c787d7d1aebe5c41cefa6c0d00a03ece76104b60cde58/68747470733a2f2f707265766965772e647261676f6e2d636f64652e70726f2f6c61726176656c2d6c616e672f6c6f63616c697a652d796f75722d6170702e7376673f6272616e643d6c61726176656c26707265706f736974696f6e3d77697468266d6f64653d6461726b)]" width="400"></p>
 <P align="center"> [ नेपाली भरसनमा ]</p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
